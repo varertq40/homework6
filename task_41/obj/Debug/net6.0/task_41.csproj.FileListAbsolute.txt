@@ -1,0 +1,15 @@
+C:\GeekBrains\DZ_C#_6\task_41\bin\Debug\net6.0\task_41.exe
+C:\GeekBrains\DZ_C#_6\task_41\bin\Debug\net6.0\task_41.deps.json
+C:\GeekBrains\DZ_C#_6\task_41\bin\Debug\net6.0\task_41.runtimeconfig.json
+C:\GeekBrains\DZ_C#_6\task_41\bin\Debug\net6.0\task_41.dll
+C:\GeekBrains\DZ_C#_6\task_41\bin\Debug\net6.0\task_41.pdb
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.csproj.AssemblyReference.cache
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.AssemblyInfoInputs.cache
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.AssemblyInfo.cs
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.dll
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\refint\task_41.dll
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.pdb
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\task_41.genruntimeconfig.cache
+C:\GeekBrains\DZ_C#_6\task_41\obj\Debug\net6.0\ref\task_41.dll
